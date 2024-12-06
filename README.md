@@ -1,54 +1,26 @@
-# Astro Starter Kit: Basics
+# Hunger Games Simulator
 
-```sh
-npm create astro@latest -- --template basics
-```
+## Hunger Games Simulator | HGgames
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Experience the thrill of the Hunger Games through our advanced simulator. Create custom tributes, simulate battles, and witness epic survival stories unfold.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Create custom tributes, simulate intense battles, and witness epic survival stories unfold in our advanced simulator.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## features
+Our simulator brings the Hunger Games to life with sophisticated features designed to create an immersive and unique experience every time.
 
-## 🚀 Project Structure
+- Create unique characters with distinct abilities and attributes to participate in the games.
+- Experience randomly generated events that create unique storylines every time you play.
+- Form alliances, gather resources, and make critical decisions to survive the arena.
+- Watch as your tributes' stories unfold through detailed event descriptions and outcomes.
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## How It Works
+- Add between 5 to 24 tributes to your Hunger Games Simulation. Name them, customize their attributes, and prepare them for the arena.
+- Choose simulation settings and event probabilities to create your perfect game environment.
+- Watch as events unfold, alliances form, and tributes fight for survival in real-time.
+- Follow detailed event logs and discover who emerges as the ultimate victor of the games.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Update Log
+https://www.hggames.org/hunger-games-simulator-changelog
